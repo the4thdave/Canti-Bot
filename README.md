@@ -4,4 +4,4 @@ A Python program that uses Discord API to create a Discord chat bot. The bot use
 TODO:
 - Add more commands
 - Create games with points systems
-- Introduce !youtube /<link> command to play music
+- Introduce !youtubelink command to play music
