@@ -1,4 +1,4 @@
-# Canti by Doc on 4/29/18
+# Canti by David Munoz
 
 import discord
 from discord.ext import commands
@@ -6,7 +6,7 @@ from discord import Game
 import asyncio
 import random
 
-TOKEN = "NDQwNjE1MTk1NjYwOTEwNTkz.DckSZQ.Yp60axj8zZ6I-VDlvZEibAbp4so"
+TOKEN = "XXXXXXXXXXXX"
 
 bot = commands.Bot(command_prefix='!')
 
